@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
