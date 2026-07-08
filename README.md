@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0016-3sum-closest/) | Medium |
+| [0053-maximum-subarray](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
@@ -49,9 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
