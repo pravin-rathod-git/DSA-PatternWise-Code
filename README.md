@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -38,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
