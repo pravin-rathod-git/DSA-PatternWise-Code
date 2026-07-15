@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
