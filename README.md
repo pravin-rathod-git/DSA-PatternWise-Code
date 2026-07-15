@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0283-move-zeroes](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0283-move-zeroes/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
