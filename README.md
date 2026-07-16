@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0136-single-number/) | Easy |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
