@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
