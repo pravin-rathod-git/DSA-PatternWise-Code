@@ -1,25 +1,31 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n=nums.length;
-        int major=nums[0];
-        int count=1;
-        for(int i=1;i<n;i++){
-            if(nums[i]==major){
+
+        // Assume the first element is the majority candidate
+        int major = nums[0];
+        int count = 1;
+
+        // Traverse the array
+        for (int i = 1; i < nums.length; i++) {
+
+            // Same as current candidate
+            if (nums[i] == major) {
                 count++;
-            }else{
-                if(count==0){
-                    major=nums[i];
-                    count=1;
-                }
+            } 
+            // Different element
+            else {
                 count--;
+
+                // If count becomes 0,
+                // choose the current element as the new candidate
+                if (count == 0) {
+                    major = nums[i];
+                    count = 1;
+                }
             }
         }
-        count=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]==major){
-                count++;
-            }
-        }
-        return count=(count>(n/2))?major:-1;
+
+        // The remaining candidate is the majority element
+        return major;
     }
 }
