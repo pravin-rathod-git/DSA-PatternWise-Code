@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0229-majority-element-ii](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/pravin-rathod-git/DSA-PatternWise-Code/tree/main/0229-majority-element-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
